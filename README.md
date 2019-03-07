@@ -1,1 +1,1 @@
-<h1>My Portfolio Site made in React</h1>
+<h1>My portfolio site made in React</h1>
